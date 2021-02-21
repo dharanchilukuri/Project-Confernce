@@ -1108,6 +1108,7 @@ p {
   box-shadow: none;
 }
 .default-btn {
+
   font-weight: 700;
   font-size: 0.875rem;
   letter-spacing: 1px;
@@ -1415,7 +1416,7 @@ a {
   position: absolute;
   top: 0;
   width: 51%;
-  background-color: #042ff8;
+  background-color: #0d335d;
   height: 100%;
   z-index: -1;
   -webkit-transition: all 0.6s;
